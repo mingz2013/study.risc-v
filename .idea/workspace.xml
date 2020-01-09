@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b9c76b4-f957-41bc-aae7-247f47bca60c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/环境搭建.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gcc.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-helloworld/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloworld/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-helloworld/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloworld/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/环境搭建.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +28,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578549456977</updated>
-      <workItem from="1578549458601" duration="257000" />
+      <workItem from="1578549458601" duration="510000" />
+      <workItem from="1578568392690" duration="1268000" />
     </task>
     <servers />
   </component>
