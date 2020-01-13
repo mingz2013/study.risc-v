@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6b9c76b4-f957-41bc-aae7-247f47bca60c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-helloworld/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloworld/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-helloworld/a.out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/01-helloworld/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/01-helloworld/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-helloworld/main.out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/环境搭建.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,10 @@
       <option name="presentableId" value="Default" />
       <updated>1578549456977</updated>
       <workItem from="1578549458601" duration="510000" />
-      <workItem from="1578568392690" duration="1268000" />
+      <workItem from="1578568392690" duration="2301000" />
+      <workItem from="1578742597129" duration="136000" />
+      <workItem from="1578751761135" duration="124000" />
+      <workItem from="1578880595260" duration="125000" />
     </task>
     <servers />
   </component>
